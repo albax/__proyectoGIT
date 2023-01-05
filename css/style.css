@@ -15,6 +15,10 @@ body{
     background-color: rgb(185, 211, 231);
 }
 
+#container h1{
+    font-size: 20px;
+}
+
 #cabecera{
     background: #33a;
     color: #fff;
@@ -34,6 +38,4 @@ body{
     font-size: 0.8em;
 }
 
-#container h1{
-    font-size: 20px;
-}
+
